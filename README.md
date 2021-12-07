@@ -6,7 +6,7 @@
 </br>
 
 ### **Connect with me**
-- [Email]: nycelease@gmail.com
+- Email: nycelease@gmail.com
 - [Instagram] 
 
 [Instagram]: https://www.instagram.com/nycelease/
