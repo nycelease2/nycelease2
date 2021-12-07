@@ -4,7 +4,8 @@
 - I'm looking for open source python projects to contribute to(Hopefully in game dev)
 
 </br>
-### **Connect with me:**
+
+### **Connect with me**
 - [Email]: nycelease@gmail.com
 - [Instagram] 
 
