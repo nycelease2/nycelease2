@@ -15,6 +15,14 @@
 
 [<img align="left" alt="Vim" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />][Vim]
 
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][Python]
+
+[<img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
+
+[<img align="left" alt="css" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
+
 [Instagram]: https://www.instagram.com/nycelease/
 [vsCode]: https://code.visualstudio.com/
 [Vim]: https://www.vim.org/
+[Python]: https://www.python.org/
+[html]: 
