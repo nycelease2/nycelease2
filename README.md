@@ -25,4 +25,3 @@
 [vsCode]: https://code.visualstudio.com/
 [Vim]: https://www.vim.org/
 [Python]: https://www.python.org/
-[html]: 
