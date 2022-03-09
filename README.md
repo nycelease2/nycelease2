@@ -5,7 +5,7 @@
 
 </br>
 
-### **Conntact me**
+### **Contact me**
 - Email: nycelease@gmail.com
 - [Instagram] 
 
