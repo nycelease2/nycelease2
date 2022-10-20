@@ -1,7 +1,5 @@
-### **Hi im Raaghav**
-- I'm currently working on a 2d adventure game
-- I'm currently learning python,sql
-- I'm looking for open source python projects to contribute to(Hopefully in game dev)
+### **Hi im Raaghav,**
+- I'm currently working on a 2d adventure [game]
 
 </br>
 
@@ -26,3 +24,4 @@
 [Vim]: https://www.vim.org/
 [Python]: https://www.python.org/
 [HOME]: https://github.com/nycelease2
+[game]: https://github.com/nycelease2/adhwari_kaka_game
