@@ -4,7 +4,7 @@
 </br>
 
 ### **Contact me**
-- Email: nycelease@gmail.com
+- Email: raaghav@thapliyal.net
 - [Instagram] 
 
 ### **Tools I use**
@@ -19,7 +19,7 @@
 
 [<img align="left" alt="css" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][HOME]
 
-[Instagram]: https://www.instagram.com/nycelease/
+[Instagram]: https://www.instagram.com/nyceleasefr/
 [vsCode]: https://code.visualstudio.com/
 [Vim]: https://www.vim.org/
 [Python]: https://www.python.org/
